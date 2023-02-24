@@ -1,0 +1,40 @@
+.home{
+    position: absolute;
+    top: 95%;
+    left: 7%;
+    transform: translateY(-50%);
+    display: flex;
+}
+
+
+
+.gambar{
+    float: left;
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: 50px;
+}
+
+.gambar1{
+    float: right;
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+.tulisan {
+    margin-bottom: 200px;
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+.tulisan1 {
+    margin-right: 150px;
+    margin-left: 10px;
+    
+}
